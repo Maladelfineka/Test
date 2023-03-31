@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    background-color: white;
+    gap: 20px;
+    
+}
+body {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(30,177,240,1) 73%, rgba(0,212,255,1) 100%);
+    color: white;
+    
+}
